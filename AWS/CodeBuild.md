@@ -73,7 +73,7 @@ artifacts:
   - Output 버킷 설정
 
 ## 빌드 실행
-![빌드 시작 버튼](../img/[AWS]%20Codebuild%20빌드시작%20버튼.png)
+![빌드 시작 버튼](../img/[AWS]%20Codebuild%20빌드시작%20버튼.png)  
 빌드 시작 버튼 클릭
 
 ## 요약된 빌드 정보 보기 ~
