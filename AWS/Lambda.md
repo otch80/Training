@@ -28,7 +28,6 @@
 > - 지원 언어 : JavaScript, Python, Ruby, Node.js, Java, .NET, Go 등 (리눅스에서 실행 가능한 임의 바이너리도 포함)
 > - 컴퓨팅 자원
 >   - 128 ~ 3,008MB 사이 (64MB 단위 설정가능, 1,792MB 메모리의 경우 1vCPU와 동일)
->   - Worker 설정가능
 
 
 > 람다 호출방식
